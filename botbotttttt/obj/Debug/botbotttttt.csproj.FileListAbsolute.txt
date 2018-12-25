@@ -1,0 +1,5 @@
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\botbotttttt\bin\Debug\botbotttttt.exe.config
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\botbotttttt\bin\Debug\botbotttttt.exe
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\botbotttttt\bin\Debug\botbotttttt.pdb
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\botbotttttt\obj\Debug\botbotttttt.exe
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\botbotttttt\obj\Debug\botbotttttt.pdb

@@ -1,0 +1,6 @@
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\vistimmmmmm\bin\Debug\vistimmmmmm.exe.config
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\vistimmmmmm\bin\Debug\vistimmmmmm.exe
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\vistimmmmmm\bin\Debug\vistimmmmmm.pdb
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\vistimmmmmm\obj\Debug\vistimmmmmm.exe
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\vistimmmmmm\obj\Debug\vistimmmmmm.pdb
+C:\Users\aviv\Desktop\מבוא לתקשורת\עבודות מהשנה\hakaton\vistimmmmmm\obj\Debug\vistimmmmmm.csprojResolveAssemblyReference.cache
